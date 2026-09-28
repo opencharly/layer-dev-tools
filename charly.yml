@@ -1,7 +1,5 @@
-version: 2026.232.0520
 dev-tools:
     candy:
-        version: 2026.165.0843
         description: |
             Cross-distro developer CLI toolkit (search, edit, monitor, archive, FUSE) with a normalized bat binary path
             dev-tools installs a broad set of command-line developer utilities
