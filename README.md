@@ -57,7 +57,7 @@ yamllint --version
 - Owning skill: `/charly-coder:dev-tools`
 - Siblings: `/charly-coder:gh` (git/GitHub tooling — deliberately NOT installed
   here), `/charly-coder:devops-tools`, `/charly-coder:build-toolchain`
-- Consumers: `/charly-coder:debian-coder`, `/charly-coder:ubuntu-coder` (bat→batcat
-  symlink), `/charly-coder:fedora-coder`, `/charly-coder:arch-coder`
+- Consumers: `/charly-coder:arch-coder` (the deb-based boxes consumed it only for the
+  bat→batcat symlink and are retired)
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
